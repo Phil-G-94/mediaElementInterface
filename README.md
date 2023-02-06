@@ -14,4 +14,4 @@
 
 - <audio> elements have the same HTMLMediaElement functionality available. Implement audio example alongside. 
 
-- Turn the timer inner <div> element into a true seek bar/scroller - allowing the user to navigate to any point in the video by clicking at that point on the bar. 
+- Turn the timer (inner div) into a true seek bar/scroller - allowing the user to navigate to any point in the video by clicking at that point on the bar. 
